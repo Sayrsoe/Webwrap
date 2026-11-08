@@ -59,3 +59,5 @@
 - Reviewer reports the last observed SHA/status and does not resume automatically.
 - Owner may close the unmerged PR and delete its branch with cleanup authority.
 - Do not modify main; a later revert, restart or scope expansion needs approval.
+
+Note: Observing a trigger event does not certify a successful independent review.
